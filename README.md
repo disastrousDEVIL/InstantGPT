@@ -3,6 +3,14 @@
 📋 Take a screenshot of coding questions or errors, or just copy text — and get instant answers in front of you within seconds.
 
 ---
+## 🖼 Preview
+
+### Example 1: Coding question → instant solution
+![Coding Example](media/Screenshot1.png)
+
+### Example 2: PDF text → cleaned excerpt
+![OCR Example](media/Screenshot2.png)
+
 
 ## ✨ Features
 - 📝 Copy text → instantly processed and displayed.  
