@@ -87,7 +87,7 @@ def show_output(output:str):
 
 
     window=QWidget()
-    window.setWindowTitle("ClipBoardGPT")
+    window.setWindowTitle("InstantGPT")
     window.resize(800,600)
 
     layout=QVBoxLayout()
